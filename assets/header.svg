@@ -96,9 +96,9 @@
   </g>
 
   <!-- Right: code window -->
-  <g transform="translate(548 65)">
+  <g transform="translate(548 78)">
     <g class="rise d2">
-      <rect width="400" height="210" rx="14" fill="#0b1020" fill-opacity="0.72" stroke="#ffffff" stroke-opacity="0.12"/>
+      <rect width="400" height="184" rx="14" fill="#0b1020" fill-opacity="0.72" stroke="#ffffff" stroke-opacity="0.12"/>
       <path d="M14 0h372a14 14 0 0 1 14 14v22H0V14A14 14 0 0 1 14 0z" fill="#ffffff" fill-opacity="0.05"/>
       <circle cx="20" cy="18" r="5.5" fill="#f87171"/>
       <circle cx="38" cy="18" r="5.5" fill="#fbbf24"/>
@@ -109,9 +109,8 @@
       <text class="line l1" x="22" y="68"><tspan class="k">const</tspan><tspan class="p"> alexandre = {</tspan></text>
       <text class="line l2" x="38" y="94"><tspan class="v">role</tspan><tspan class="p">: </tspan><tspan class="s">"Developer @ Fibope"</tspan><tspan class="p">,</tspan></text>
       <text class="line l3" x="38" y="120"><tspan class="v">stack</tspan><tspan class="p">: [</tspan><tspan class="s">".NET"</tspan><tspan class="p">, </tspan><tspan class="s">"Kotlin"</tspan><tspan class="p">, </tspan><tspan class="s">"React"</tspan><tspan class="p">],</tspan></text>
-      <text class="line l4" x="38" y="146"><tspan class="v">builds</tspan><tspan class="p">: </tspan><tspan class="s">"apps que a fábrica usa"</tspan><tspan class="p">,</tspan></text>
-      <text class="line l5" x="22" y="172"><tspan class="p">};</tspan></text>
+      <text class="line l4" x="22" y="146"><tspan class="p">};</tspan></text>
     </g>
-    <rect class="caret" x="44" y="160" width="8" height="16" rx="1" fill="#a78bfa"/>
+    <rect class="caret" x="44" y="134" width="8" height="16" rx="1" fill="#a78bfa"/>
   </g>
 </svg>
