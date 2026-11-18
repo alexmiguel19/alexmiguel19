@@ -79,31 +79,26 @@
 
   <!-- Left: intro -->
   <g class="sans">
-    <g class="rise d1">
-      <rect x="56" y="62" width="196" height="30" rx="15" fill="#ffffff" fill-opacity="0.07" stroke="#ffffff" stroke-opacity="0.14"/>
-      <circle class="pulse" cx="76" cy="77" r="5" fill="#4ade80"/>
-      <text x="90" y="82" font-size="13.5" fill="#cbd5e1" letter-spacing="0.3">Olá, eu sou o 👋</text>
-    </g>
-    <text class="rise d2" x="54" y="152" font-size="54" font-weight="800" fill="url(#name)" letter-spacing="-1.5">Alexandre</text>
-    <text class="rise d2" x="54" y="208" font-size="54" font-weight="800" fill="#f8fafc" letter-spacing="-1.5">Correia</text>
+    <text class="rise d2" x="54" y="122" font-size="54" font-weight="800" fill="url(#name)" letter-spacing="-1.5">Alexandre</text>
+    <text class="rise d2" x="54" y="178" font-size="54" font-weight="800" fill="#f8fafc" letter-spacing="-1.5">Correia</text>
 
     <g class="rise d3 mono" font-size="17" fill="#e2e8f0">
-      <text x="56" y="252" fill="#a78bfa">&gt;</text>
-      <text class="role" x="76" y="252">Full-stack developer</text>
-      <text class="role r2" x="76" y="252">Apps Android para a fábrica</text>
-      <text class="role r3" x="76" y="252">APIs .NET &amp; integrações ERP</text>
+      <text x="56" y="222" fill="#a78bfa">&gt;</text>
+      <text class="role" x="76" y="222">Full-stack developer</text>
+      <text class="role r2" x="76" y="222">Apps Android para a fábrica</text>
+      <text class="role r3" x="76" y="222">APIs .NET &amp; integrações ERP</text>
     </g>
 
     <g class="rise d4" font-size="13" fill="#94a3b8">
-      <text x="56" y="292">📍 Portugal</text>
-      <text x="160" y="292">🏭 Fibope Portuguesa</text>
+      <text x="56" y="262">📍 Portugal</text>
+      <text x="160" y="262">🏭 Fibope Portuguesa</text>
     </g>
   </g>
 
   <!-- Right: code window -->
-  <g transform="translate(548 52)">
+  <g transform="translate(548 65)">
     <g class="rise d2">
-      <rect width="400" height="236" rx="14" fill="#0b1020" fill-opacity="0.72" stroke="#ffffff" stroke-opacity="0.12"/>
+      <rect width="400" height="210" rx="14" fill="#0b1020" fill-opacity="0.72" stroke="#ffffff" stroke-opacity="0.12"/>
       <path d="M14 0h372a14 14 0 0 1 14 14v22H0V14A14 14 0 0 1 14 0z" fill="#ffffff" fill-opacity="0.05"/>
       <circle cx="20" cy="18" r="5.5" fill="#f87171"/>
       <circle cx="38" cy="18" r="5.5" fill="#fbbf24"/>
@@ -115,9 +110,8 @@
       <text class="line l2" x="38" y="94"><tspan class="v">role</tspan><tspan class="p">: </tspan><tspan class="s">"Developer @ Fibope"</tspan><tspan class="p">,</tspan></text>
       <text class="line l3" x="38" y="120"><tspan class="v">stack</tspan><tspan class="p">: [</tspan><tspan class="s">".NET"</tspan><tspan class="p">, </tspan><tspan class="s">"Kotlin"</tspan><tspan class="p">, </tspan><tspan class="s">"React"</tspan><tspan class="p">],</tspan></text>
       <text class="line l4" x="38" y="146"><tspan class="v">builds</tspan><tspan class="p">: </tspan><tspan class="s">"apps que a fábrica usa"</tspan><tspan class="p">,</tspan></text>
-      <text class="line l5" x="38" y="172"><tspan class="v">coffee</tspan><tspan class="p">: </tspan><tspan class="k">Infinity</tspan><tspan class="p">,</tspan></text>
-      <text class="line l6" x="22" y="198"><tspan class="p">};</tspan></text>
+      <text class="line l5" x="22" y="172"><tspan class="p">};</tspan></text>
     </g>
-    <rect class="caret" x="44" y="186" width="8" height="16" rx="1" fill="#a78bfa"/>
+    <rect class="caret" x="44" y="160" width="8" height="16" rx="1" fill="#a78bfa"/>
   </g>
 </svg>
