@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="336" viewBox="0 0 400 336" role="img" aria-label="Tecnologias: C#, ASP.NET Core, EF Core, Kotlin, Compose, React, TypeScript, Vite, Tailwind, SQL Server, Entra ID, Git">
+<defs><style>.sans { font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif; } .mono { font-family: 'JetBrains Mono', 'Cascadia Code', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace; } .chip { opacity: 0; animation: pop 0.6s cubic-bezier(.2,.7,.2,1) forwards; } @keyframes pop { from { opacity: 0; translate: 0 10px; } to { opacity: 1; translate: 0 0; } }</style></defs>
+<g class="chip" style="animation-delay:0.00s" transform="translate(0 0)">
+<rect x="0.75" y="0.75" width="192.5" height="44.5" rx="23.0" fill="#111833" stroke="#9b4f96" stroke-opacity="0.45"/>
+<circle cx="23.0" cy="23.0" r="16.0" fill="#9b4f96" fill-opacity="0.2"/>
+<text x="23.0" y="27.95" text-anchor="middle" class="mono" font-size="12.75" font-weight="700" fill="#9b4f96">C#</text>
+<text x="50" y="28.4" class="sans" font-size="15" font-weight="600" fill="#e2e8f0">C#</text></g>
+<g class="chip" style="animation-delay:0.05s" transform="translate(206 0)">
+<rect x="0.75" y="0.75" width="192.5" height="44.5" rx="23.0" fill="#111833" stroke="#512bd4" stroke-opacity="0.45"/>
+<circle cx="23.0" cy="23.0" r="16.0" fill="#512bd4" fill-opacity="0.2"/>
+<text x="23.0" y="27.95" text-anchor="middle" class="mono" font-size="10.799999999999999" font-weight="700" fill="#512bd4">.NET</text>
+<text x="50" y="28.4" class="sans" font-size="15" font-weight="600" fill="#e2e8f0">ASP.NET Core</text></g>
+<g class="chip" style="animation-delay:0.10s" transform="translate(0 58)">
+<rect x="0.75" y="0.75" width="192.5" height="44.5" rx="23.0" fill="#111833" stroke="#6d28d9" stroke-opacity="0.45"/>
+<circle cx="23.0" cy="23.0" r="16.0" fill="#6d28d9" fill-opacity="0.2"/>
+<text x="23.0" y="27.95" text-anchor="middle" class="mono" font-size="12.75" font-weight="700" fill="#6d28d9">EF</text>
+<text x="50" y="28.4" class="sans" font-size="15" font-weight="600" fill="#e2e8f0">EF Core</text></g>
+<g class="chip" style="animation-delay:0.15s" transform="translate(206 58)">
+<rect x="0.75" y="0.75" width="192.5" height="44.5" rx="23.0" fill="#111833" stroke="#7f52ff" stroke-opacity="0.45"/>
+<circle cx="23.0" cy="23.0" r="16.0" fill="#7f52ff" fill-opacity="0.2"/>
+<text x="23.0" y="27.95" text-anchor="middle" class="mono" font-size="12.75" font-weight="700" fill="#7f52ff">K</text>
+<text x="50" y="28.4" class="sans" font-size="15" font-weight="600" fill="#e2e8f0">Kotlin</text></g>
+<g class="chip" style="animation-delay:0.20s" transform="translate(0 116)">
+<rect x="0.75" y="0.75" width="192.5" height="44.5" rx="23.0" fill="#111833" stroke="#4285f4" stroke-opacity="0.45"/>
+<circle cx="23.0" cy="23.0" r="16.0" fill="#4285f4" fill-opacity="0.2"/>
+<text x="23.0" y="27.95" text-anchor="middle" class="mono" font-size="12.75" font-weight="700" fill="#4285f4">JC</text>
+<text x="50" y="28.4" class="sans" font-size="15" font-weight="600" fill="#e2e8f0">Compose</text></g>
+<g class="chip" style="animation-delay:0.25s" transform="translate(206 116)">
+<rect x="0.75" y="0.75" width="192.5" height="44.5" rx="23.0" fill="#111833" stroke="#61dafb" stroke-opacity="0.45"/>
+<circle cx="23.0" cy="23.0" r="16.0" fill="#61dafb" fill-opacity="0.2"/>
+<text x="23.0" y="27.95" text-anchor="middle" class="mono" font-size="12.75" font-weight="700" fill="#61dafb">⚛</text>
+<text x="50" y="28.4" class="sans" font-size="15" font-weight="600" fill="#e2e8f0">React</text></g>
+<g class="chip" style="animation-delay:0.30s" transform="translate(0 174)">
+<rect x="0.75" y="0.75" width="192.5" height="44.5" rx="23.0" fill="#111833" stroke="#3178c6" stroke-opacity="0.45"/>
+<circle cx="23.0" cy="23.0" r="16.0" fill="#3178c6" fill-opacity="0.2"/>
+<text x="23.0" y="27.95" text-anchor="middle" class="mono" font-size="12.75" font-weight="700" fill="#3178c6">TS</text>
+<text x="50" y="28.4" class="sans" font-size="15" font-weight="600" fill="#e2e8f0">TypeScript</text></g>
+<g class="chip" style="animation-delay:0.35s" transform="translate(206 174)">
+<rect x="0.75" y="0.75" width="192.5" height="44.5" rx="23.0" fill="#111833" stroke="#a855f7" stroke-opacity="0.45"/>
+<circle cx="23.0" cy="23.0" r="16.0" fill="#a855f7" fill-opacity="0.2"/>
+<text x="23.0" y="27.95" text-anchor="middle" class="mono" font-size="12.75" font-weight="700" fill="#a855f7">V</text>
+<text x="50" y="28.4" class="sans" font-size="15" font-weight="600" fill="#e2e8f0">Vite</text></g>
+<g class="chip" style="animation-delay:0.40s" transform="translate(0 232)">
+<rect x="0.75" y="0.75" width="192.5" height="44.5" rx="23.0" fill="#111833" stroke="#38bdf8" stroke-opacity="0.45"/>
+<circle cx="23.0" cy="23.0" r="16.0" fill="#38bdf8" fill-opacity="0.2"/>
+<text x="23.0" y="27.95" text-anchor="middle" class="mono" font-size="12.75" font-weight="700" fill="#38bdf8">~</text>
+<text x="50" y="28.4" class="sans" font-size="15" font-weight="600" fill="#e2e8f0">Tailwind</text></g>
+<g class="chip" style="animation-delay:0.45s" transform="translate(206 232)">
+<rect x="0.75" y="0.75" width="192.5" height="44.5" rx="23.0" fill="#111833" stroke="#cc2927" stroke-opacity="0.45"/>
+<circle cx="23.0" cy="23.0" r="16.0" fill="#cc2927" fill-opacity="0.2"/>
+<text x="23.0" y="27.95" text-anchor="middle" class="mono" font-size="10.799999999999999" font-weight="700" fill="#cc2927">SQL</text>
+<text x="50" y="28.4" class="sans" font-size="15" font-weight="600" fill="#e2e8f0">SQL Server</text></g>
+<g class="chip" style="animation-delay:0.50s" transform="translate(0 290)">
+<rect x="0.75" y="0.75" width="192.5" height="44.5" rx="23.0" fill="#111833" stroke="#0078d4" stroke-opacity="0.45"/>
+<circle cx="23.0" cy="23.0" r="16.0" fill="#0078d4" fill-opacity="0.2"/>
+<text x="23.0" y="27.95" text-anchor="middle" class="mono" font-size="12.75" font-weight="700" fill="#0078d4">ID</text>
+<text x="50" y="28.4" class="sans" font-size="15" font-weight="600" fill="#e2e8f0">Entra ID</text></g>
+<g class="chip" style="animation-delay:0.55s" transform="translate(206 290)">
+<rect x="0.75" y="0.75" width="192.5" height="44.5" rx="23.0" fill="#111833" stroke="#f05032" stroke-opacity="0.45"/>
+<circle cx="23.0" cy="23.0" r="16.0" fill="#f05032" fill-opacity="0.2"/>
+<text x="23.0" y="27.95" text-anchor="middle" class="mono" font-size="10.799999999999999" font-weight="700" fill="#f05032">git</text>
+<text x="50" y="28.4" class="sans" font-size="15" font-weight="600" fill="#e2e8f0">Git</text></g>
+</svg>

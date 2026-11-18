@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="120" viewBox="0 0 1000 120" role="img" aria-label="Obrigado pela visita">
+  <defs>
+    <linearGradient id="w" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#38bdf8"/><stop offset="0.5" stop-color="#a78bfa"/><stop offset="1" stop-color="#f472b6"/>
+    </linearGradient>
+    <style>
+      .w1 { animation: wave 9s ease-in-out infinite alternate; }
+      .w2 { animation: wave 12s ease-in-out infinite alternate-reverse; }
+      @keyframes wave { to { translate: -500px 0; } }
+    </style>
+  </defs>
+  <path class="w1" d="M0 70 C125 40 250 100 375 70 S625 40 750 70 S1000 100 1125 70 S1375 40 1500 70 V120 H0Z" fill="url(#w)" opacity="0.35"/>
+  <path class="w2" d="M0 85 C125 110 250 60 375 85 S625 110 750 85 S1000 60 1125 85 S1375 110 1500 85 V120 H0Z" fill="url(#w)" opacity="0.6"/>
+  <text x="500" y="38" text-anchor="middle" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="15" fill="#94a3b8" letter-spacing="2">OBRIGADO PELA VISITA  ✦</text>
+</svg>

@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="270" viewBox="0 0 1000 270" role="img" aria-label="O que construo: portal do colaborador, app Android para a fábrica, APIs e integrações">
+<defs>
+<linearGradient id="cardBg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#151c38"/><stop offset="1" stop-color="#0d1226"/></linearGradient>
+<linearGradient id="g1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#38bdf8"/><stop offset="1" stop-color="#6366f1"/></linearGradient><linearGradient id="g2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#4ade80"/><stop offset="1" stop-color="#0ea5e9"/></linearGradient><linearGradient id="g3" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f472b6"/><stop offset="1" stop-color="#a78bfa"/></linearGradient>
+<style>
+.sans { font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif; } .mono { font-family: 'JetBrains Mono', 'Cascadia Code', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace; }
+.card { opacity: 0; animation: up 0.8s cubic-bezier(.2,.7,.2,1) forwards; }
+.c2 { animation-delay: 0.15s; } .c3 { animation-delay: 0.3s; }
+@keyframes up { from { opacity: 0; translate: 0 16px; } to { opacity: 1; translate: 0 0; } }
+.glow { animation: glow 4s ease-in-out infinite; }
+.glow2 { animation-delay: 1.3s; } .glow3 { animation-delay: 2.6s; }
+@keyframes glow { 0%, 100% { opacity: 0.25; } 50% { opacity: 0.9; } }
+
+</style></defs>
+<g class="card c1" transform="translate(0 0)">
+<rect x="1" y="1" width="318" height="268" rx="18" fill="url(#cardBg)" stroke="#fff" stroke-opacity="0.08"/>
+<rect class="glow glow1" x="1" y="1" width="318" height="268" rx="18" fill="none" stroke="url(#g1)" stroke-width="1.5"/>
+<rect x="26" y="26" width="52" height="52" rx="14" fill="url(#g1)"/>
+<g transform="translate(26 26) scale(1)" fill="none" stroke="#fff" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><rect x="12" y="14" width="28" height="22" rx="3"/><path d="M12 21h28M18 27h8M18 31h12"/></g>
+<text x="26" y="112" class="sans" font-size="19" font-weight="700" fill="#f8fafc">Portal do colaborador</text>
+<text class="sans" font-size="13.5" fill="#94a3b8"><tspan x="26" y="138">PWA para férias, horários, formações,</tspan><tspan x="26" y="158">despesas e documentos — no bolso</tspan><tspan x="26" y="178">de cada pessoa da empresa.</tspan></text>
+<rect x="26" y="218" width="59" height="26" rx="13" fill="#38bdf8" fill-opacity="0.14"/><text x="55.5" y="235" text-anchor="middle" class="mono" font-size="11.5" fill="#cbd5e1">React</text>
+<rect x="93" y="218" width="73" height="26" rx="13" fill="#38bdf8" fill-opacity="0.14"/><text x="129.5" y="235" text-anchor="middle" class="mono" font-size="11.5" fill="#cbd5e1">ASP.NET</text>
+<rect x="174" y="218" width="45" height="26" rx="13" fill="#38bdf8" fill-opacity="0.14"/><text x="196.5" y="235" text-anchor="middle" class="mono" font-size="11.5" fill="#cbd5e1">PWA</text>
+</g>
+<g class="card c2" transform="translate(340 0)">
+<rect x="1" y="1" width="318" height="268" rx="18" fill="url(#cardBg)" stroke="#fff" stroke-opacity="0.08"/>
+<rect class="glow glow2" x="1" y="1" width="318" height="268" rx="18" fill="none" stroke="url(#g2)" stroke-width="1.5"/>
+<rect x="26" y="26" width="52" height="52" rx="14" fill="url(#g2)"/>
+<g transform="translate(26 26) scale(1)" fill="none" stroke="#fff" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><rect x="16" y="10" width="20" height="32" rx="4"/><path d="M23 36h6"/></g>
+<text x="26" y="112" class="sans" font-size="19" font-weight="700" fill="#f8fafc">App para a fábrica</text>
+<text class="sans" font-size="13.5" fill="#94a3b8"><tspan x="26" y="138">Android para produção, armazém e</tspan><tspan x="26" y="158">controlo de qualidade — usada todos</tspan><tspan x="26" y="178">os dias no chão de fábrica.</tspan></text>
+<rect x="26" y="218" width="66" height="26" rx="13" fill="#4ade80" fill-opacity="0.14"/><text x="59.0" y="235" text-anchor="middle" class="mono" font-size="11.5" fill="#cbd5e1">Kotlin</text>
+<rect x="100" y="218" width="73" height="26" rx="13" fill="#4ade80" fill-opacity="0.14"/><text x="136.5" y="235" text-anchor="middle" class="mono" font-size="11.5" fill="#cbd5e1">Compose</text>
+<rect x="181" y="218" width="52" height="26" rx="13" fill="#4ade80" fill-opacity="0.14"/><text x="207.0" y="235" text-anchor="middle" class="mono" font-size="11.5" fill="#cbd5e1">Hilt</text>
+</g>
+<g class="card c3" transform="translate(680 0)">
+<rect x="1" y="1" width="318" height="268" rx="18" fill="url(#cardBg)" stroke="#fff" stroke-opacity="0.08"/>
+<rect class="glow glow3" x="1" y="1" width="318" height="268" rx="18" fill="none" stroke="url(#g3)" stroke-width="1.5"/>
+<rect x="26" y="26" width="52" height="52" rx="14" fill="url(#g3)"/>
+<g transform="translate(26 26) scale(1)" fill="none" stroke="#fff" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><circle cx="16" cy="18" r="4"/><circle cx="36" cy="18" r="4"/><circle cx="26" cy="36" r="4"/><path d="M20 18h12M18 21l6 11M34 21l-6 11"/></g>
+<text x="26" y="112" class="sans" font-size="19" font-weight="700" fill="#f8fafc">APIs &amp; integrações</text>
+<text class="sans" font-size="13.5" fill="#94a3b8"><tspan x="26" y="138">Ligam as aplicações ao ERP e às</tspan><tspan x="26" y="158">bases de dados de produção, com</tspan><tspan x="26" y="178">login Microsoft Entra ID.</tspan></text>
+<rect x="26" y="218" width="52" height="26" rx="13" fill="#f472b6" fill-opacity="0.14"/><text x="52.0" y="235" text-anchor="middle" class="mono" font-size="11.5" fill="#cbd5e1">.NET</text>
+<rect x="86" y="218" width="95" height="26" rx="13" fill="#f472b6" fill-opacity="0.14"/><text x="133.5" y="235" text-anchor="middle" class="mono" font-size="11.5" fill="#cbd5e1">SQL Server</text>
+<rect x="189" y="218" width="59" height="26" rx="13" fill="#f472b6" fill-opacity="0.14"/><text x="218.5" y="235" text-anchor="middle" class="mono" font-size="11.5" fill="#cbd5e1">Graph</text>
+</g>
+</svg>
