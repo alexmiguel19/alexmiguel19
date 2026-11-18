@@ -31,11 +31,3 @@
 </picture>
 
 <br><br>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/alexandre-correia-49a20621b/">
-    <img src="./assets/linkedin.svg" alt="Vamos falar no LinkedIn" height="56" width="280">
-  </a>
-</p>
-
-<img src="./assets/footer.svg" alt="Obrigado pela visita" width="100%">
